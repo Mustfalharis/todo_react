@@ -1,0 +1,24 @@
+.form-box{
+    display: flex;
+    justify-content: space-between;
+    ;
+}
+.form-box input{
+    flex: 1;
+    border: none;
+    outline: none;
+    border: 1px solid #f0f0f0;
+    height: 48px;
+    font-size: 18px;
+    padding: 0px 16px;
+    border-radius: 8px;    
+}
+.form-box button{
+  border: none;
+  border-radius: 8px;
+  height: 48px;
+  padding: 0px 14px;
+  font-size: 18px;
+  background-color: #0000ff;
+  color: #fff;
+}
